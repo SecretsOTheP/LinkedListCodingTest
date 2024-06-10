@@ -31,3 +31,6 @@
 *.out
 *.app
 /.vs
+/LinkedList/x64
+/LinkedListUnitTest/x64
+/x64
